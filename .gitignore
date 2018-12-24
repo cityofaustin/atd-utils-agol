@@ -1,6 +1,3 @@
-*.egg-info
-build/
-dist/
 *secrets*
 __pycache__
 .env
