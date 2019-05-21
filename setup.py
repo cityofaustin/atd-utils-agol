@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="agoutil",
-    version="0.0.16",
+    name="atd-agolutil",
+    version="0.0.1",
     author="City of Austin",
     author_email="transportation.data@austintexas.gov",
     description="Utilities interacting with ArcGIS Online (AGO) data.",
@@ -15,7 +15,7 @@ setuptools.setup(
     ],
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cityofaustin/transportation-data-utils-ago",
+    url="https://github.com/cityofaustin/atd-data-utils-agol",
     packages=setuptools.find_packages(),
     classifiers=(
         "Programming Language :: Python :: 3",
@@ -24,4 +24,3 @@ setuptools.setup(
         "Development Status :: 4 - Beta", 
     ),
 )
-
