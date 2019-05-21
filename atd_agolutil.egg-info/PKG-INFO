@@ -1,18 +1,17 @@
 Metadata-Version: 2.1
-Name: agoutil
-Version: 0.0.16
-Summary: Utilities interacting with ArcGIS Online (AGO) data.
-Home-page: https://github.com/cityofaustin/transportation-data-utils-ago
+Name: atd-agolutil
+Version: 0.0.3
+Summary: Python utilities interacting with the ArcGIS Online (AGOL) API.
+Home-page: https://github.com/cityofaustin/atd-data-utils-agol
 Author: City of Austin
 Author-email: transportation.data@austintexas.gov
 License: UNKNOWN
-Description: # transportation-data-utils-agol (agoutil)
+Description: # atd-utils-agol (agolutil)
         Helper methods to work with [ArcGIS for Python API](http://arcgis.com), mixed in with a few manual [ArcGIS REST API](http://google.com) requests.
         
         ## Installation
         ```
-        # something like
-        # git+https://github.com/cityofaustin/transportation-data-utils-agol.git@master
+        pip install atd-agolutil
         ```
         
         ## License

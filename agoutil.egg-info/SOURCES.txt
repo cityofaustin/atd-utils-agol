@@ -1,9 +1,0 @@
-README.md
-setup.py
-agoutil/__init__.py
-agoutil/agolutil.py
-agoutil.egg-info/PKG-INFO
-agoutil.egg-info/SOURCES.txt
-agoutil.egg-info/dependency_links.txt
-agoutil.egg-info/requires.txt
-agoutil.egg-info/top_level.txt
