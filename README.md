@@ -1,10 +1,9 @@
-# transportation-data-utils-agol (agoutil)
+# atd-utils-agol (agolutil)
 Helper methods to work with [ArcGIS for Python API](http://arcgis.com), mixed in with a few manual [ArcGIS REST API](http://google.com) requests.
 
 ## Installation
 ```
-# something like
-# git+https://github.com/cityofaustin/transportation-data-utils-agol.git@master
+pip install atd-agolutil
 ```
 
 ## License
