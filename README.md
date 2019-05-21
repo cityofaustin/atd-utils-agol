@@ -3,7 +3,7 @@ Helper methods to work with [ArcGIS for Python API](http://arcgis.com), mixed in
 
 ## Installation
 ```
-pip install atd-agolutil
+pip install atd_agolutil
 ```
 
 ## License
