@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="City of Austin",
     author_email="transportation.data@austintexas.gov",
-    description="Utilities interacting with ArcGIS Online (AGO) data.",
+    description="Python utilities interacting with the ArcGIS Online (AGOL) API.",
     install_requires=[
       'requests',
       'arcgis',
