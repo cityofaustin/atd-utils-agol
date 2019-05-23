@@ -1,9 +1,9 @@
-*secrets*
+*.egg-info
+build/
+dist/
 __pycache__
-.env
 .DS_Store
-*.logrotate
-*.key
-*.pem
+.env
+*.log
 *.pyc
 *.zip
